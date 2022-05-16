@@ -1,7 +1,7 @@
 <img src='MikeWawrzenczykBanner.png'>
 ### Hi there 👋
 
-<a href="https://github.com/mikewawrzenczyk">![github](https://img.shields.io/badge/My Github-512BD4?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+<a href="https://github.com/mikewawrzenczyk">![github](https://img.shields.io/badge/MyGithub-512BD4?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href='https://www.linkedin.com/in/mike-wawrzenczyk/'><img src="https://img.shields.io/badge/My Linkedin512BD4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
