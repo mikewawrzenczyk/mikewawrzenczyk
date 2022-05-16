@@ -1,3 +1,4 @@
+<img src='MikeWawrzenczykBanner.png'>
 ### Hi there 👋
 
 <!--
