@@ -3,6 +3,7 @@
 
 <a href="https://github.com/mikewawrzenczyk">![github](https://img.shields.io/badge/MyGithub-512BD4?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href='https://www.linkedin.com/in/mike-wawrzenczyk/'><img src="https://img.shields.io/badge/My Linkedin-512BD4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href='https://twitter.com/michaldubs'><img src="https://img.shields.io/badge/Twitter-512BD4?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 
 <h2>I am a Software Developer with over ten years IT, application analyst, and training experience. I bring out the best in teams I am involved with, helping complete business processes. I have college diploma in Web Development and freelanced as I started an IT career. I have decided I have a greater passion for software development and being customer facing I want to work on software that I love to solve problems and help people.</h2>
