@@ -52,7 +52,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147
 
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikewawrzenczyk&show_icons=true&theme=synthwave)
 
-🛠️ Technologies and Tools I use:
+<h2>🛠️ Technologies and Tools I use:</h2>
 <br>
 <div style="background-color:rgba(255,255,255,0.5);"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
