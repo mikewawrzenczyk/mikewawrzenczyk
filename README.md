@@ -46,9 +46,11 @@ Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=512BD4"/>
 </a>
 </p>
-<p><strong>HTML5, CSS3, Javascript, PHP, Wordpress</strong>Client site for a bow/children's clothes e-commerce business. A responsive design, built with CMS in mind so customer can use Wordress for self updates as well e-commerce plugins to get payments and add inventory.</p>
+<p><strong>HTML5, CSS3, Javascript, PHP, Wordpress</strong>Children's clothes e-commerce business. A responsive design, built with CMS in mind so customer can use Wordress for self updates as well e-commerce plugins to get payments and add inventory.</p>
 </div>
 </table>
+
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikewawrzenczyk&show_icons=true&theme=radical)
 <!--
 **mikewawrzenczyk/mikewawrzenczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
