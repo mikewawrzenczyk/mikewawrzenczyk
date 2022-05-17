@@ -53,6 +53,8 @@ Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikewawrzenczyk&show_icons=true&theme=synthwave)
 
 🛠️ Technologies and Tools I use:
+<br>
+<div style="background-color:rgba(255,255,255,0.5);"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
@@ -67,6 +69,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147
 <a href="https://aws.amazon.com/" target="_blank"><img src='https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg' alt='AWS'></a>
 <a href="https://www.apple.com" target="_blank"><img src='https://www.vectorlogo.zone/logos/apple/apple-ar21.svg' alt='MAC OS'></a>
 <a href="https://www.microsoft.com" target="_blank"><img src='https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg' alt='MAC OS'></a>
+</div>
 <!--
 **mikewawrzenczyk/mikewawrzenczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
