@@ -19,6 +19,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147
 <h3 align="center" color="white">Portfolio Site</h2>
     <div align="center" >  
     <a href='https://www.michalw.com'>
+    <br>
     <img src="michalwsite.gif" alt="Mike Wawrzenczyk Portfolio picture" height="322px" width="100%" />
     </a>
     <br>
