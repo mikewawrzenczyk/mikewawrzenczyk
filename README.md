@@ -28,7 +28,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=512BD4"/>
     </a>
     </p>
-    <p><strong>HTML5, CSS3, Javascript</strong>Created a new abstract and responsive portfolio site which I use for freelance business as well as showing off my projects!</p>
+    <p><strong>HTML5, CSS3, Javascript</strong>Created a new abstract and responsive portfolio site which I use for freelance business as well as showing off my projects! Simple yet elegant design which loads fast on desktop and mobile.</p>
     </div>
 </td>
 <td width="50%">
