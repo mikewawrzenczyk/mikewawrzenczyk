@@ -18,7 +18,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147
 <td width="50%">
 <h3 align="center" color="white">Portfolio Site</h2>
     <div align="center" >  
-    <a href='www.michalw.com'>
+    <a href='https://www.michalw.com'>
     <img src="michalwsite.gif" alt="Mike Wawrzenczyk Portfolio picture" height="322px" width="100%" />
     </a>
     <br>
@@ -35,9 +35,9 @@ Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147
 <h3 align="center" color="white">AnnaBownanna Client Site</h2>
 <div align="center" >  
 <a href='https://www.annabownanna.com'>
+<br>
 <img src="annabownannasite.gif" alt="" height="322px" width="100%" />
 </a>
-<br>
 <br>
 <br>
 <p>
