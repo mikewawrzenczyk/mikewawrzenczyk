@@ -5,7 +5,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147
 <a href='https://www.linkedin.com/in/mike-wawrzenczyk/'><img src="https://img.shields.io/badge/My Linkedin-512BD4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href='https://twitter.com/michaldubs'><img src="https://img.shields.io/badge/Twitter-512BD4?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-👨🏻‍💻 About Me:
+<h2>👨🏻‍💻 About Me:</h2>
 <h3>I am a Software Developer with over ten years of IT, application analysis, and training experience. Bringing out the best in teams I am involved with, helping complete business processes. Completed a college diploma in Web Development and freelanced as I started an IT career. I have decided I have a more incredible passion for software development and being customer facing I want to work on software that I love to solve problems and help people.</h3>
 <h3>Feel free to contact me out my <a href='https://michalw.com/contact.html' alt='Mike Wawrzenczyk Portfolio'>portfolio</a></h3>
 
@@ -53,7 +53,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikewawrzenczyk&show_icons=true&theme=synthwave)
 
 <h2>🛠️ Technologies and Tools I use:</h2>
-<br>
+<tr>
 <div style="background-color:rgba(255,255,255,0.5);"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
