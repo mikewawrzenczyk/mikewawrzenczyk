@@ -17,33 +17,31 @@ Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147
 <tr>
 <td width="50%">
 <h3 align="center" color="white">Portfolio Site</h2>
-<div align="center" >  
-<a href='www.michalw.com'>
-<img src="michalwsite.gif" alt="Mike Wawrzenczyk Portfolio picture" height="322px" width="100%" />
-</a>
-<br>
-<br>
-<p>
-<a href="#" target="_blank">
-<img src=#>
-</a>  
-<a href="https://narutobattlescreen-js.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=512BD4"/>
-</a>
-</p>
-<p><strong>HTML5, CSS3, Javascript</strong>Created a new abstract and responsive portfolio site which I use for freelance business as well as showing off my projects!</p>
-</div>
+    <div align="center" >  
+    <a href='www.michalw.com'>
+    <img src="michalwsite.gif" alt="Mike Wawrzenczyk Portfolio picture" height="322px" width="100%" />
+    </a>
+    <br>
+    <br>
+    <p>
+    <a href="https://www.michalw.com" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=512BD4"/>
+    </a>
+    </p>
+    <p><strong>HTML5, CSS3, Javascript</strong>Created a new abstract and responsive portfolio site which I use for freelance business as well as showing off my projects!</p>
+    </div>
 </td>
 <td width="50%">
 <h3 align="center" color="white">AnnaBownanna Client Site</h2>
 <div align="center" >  
-<a href='www.annabownanna.com'>
+<a href='https://www.annabownanna.com'>
 <img src="annabownannasite.gif" alt="" height="322px" width="100%" />
 </a>
 <br>
 <br>
+<br>
 <p>
-<a href="www.annabownanna.com" target="_blank">
+<a href='https://www.annabownanna.com' target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=512BD4"/>
 </a>
 </p>
