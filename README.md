@@ -37,7 +37,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147
 <div align="center" >  
 <a href='https://www.annabownanna.com'>
 <br>
-<img src="annabownannasite.gif" alt="" height="322px" width="100%" />
+<img src="annabownannasite.gif" alt="bow client ecomerce site" height="322px" width="100%" />
 </a>
 <br>
 <br>
